@@ -1,4 +1,5 @@
 # bdai-app
+Code for OSU BDAI's web app for investment advising.
 
 ## Project setup
 ```
